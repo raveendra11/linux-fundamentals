@@ -13,5 +13,11 @@
                **rm** - To remove a file.
                **cp** - To copy files from one to other directory/copy files in same directory.
                **mv** - To move file/rename file.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**More to come** ------------------------------------------------------------------------------------------------
+               **rm -rf** - To remove files, directories and sub-directories.
+               **sudo su** - To login as root user.
+               **cat** - To display file contents on the console.
+               **wc -l** - To count number of lines in a file.
+               **ps aux** - To dispaly all running processes.
+               **grep** - To find and display a particular pattern.
+               **systemctl** -  To find status, start, stop of any processes and service.
+               **tac** - To display the file contents in reverse on console.   
