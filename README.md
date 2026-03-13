@@ -1,6 +1,5 @@
 # linux-fundamentals
    ## Commands:
-         **basic**:
                **ls** - To list files or directories in a current directory.
                **ls -lrt** - To list files or directories with details (timestamp, user, permissions .. ) in a current directory.
                **cd** - To change from one to another directory.
@@ -20,4 +19,8 @@
                **ps aux** - To dispaly all running processes.
                **grep** - To find and display a particular pattern.
                **systemctl** -  To find status, start, stop of any processes and service.
-               **tac** - To display the file contents in reverse on console.   
+               **tac** - To display the file contents in reverse on console.
+               **tail** - To display ending file contents.
+               **head** - To display starting of file contents.
+               **less** - To paginated viewing of file contents.
+               **more** - To view of file contets one screen/page at a time.
