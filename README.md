@@ -24,3 +24,6 @@
                **head** - To display starting of file contents.
                **less** - To paginated viewing of file contents.
                **more** - To view of file contets one screen/page at a time.
+               **emacs** - To open a gui based file editor.
+               **sudo su** - To switch to root user.
+               **pgrep** - To find processess with name.
