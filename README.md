@@ -27,3 +27,4 @@
                **emacs** - To open a gui based file editor.
                **sudo su** - To switch to root user.
                **pgrep** - To find processess with name.
+               **touch** - Creates a new empty file or updates the timestamp of an existing one.
