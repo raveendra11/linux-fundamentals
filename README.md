@@ -31,3 +31,4 @@
                **wget** - To download files for web.
                **nano** - Basic text editor.
                **kill** - Terminates a running process using its process ID.
+               **vi** - Text editor
