@@ -2,6 +2,7 @@
    ## Commands:
                **ls** - To list files or directories in a current directory.
                **ls -lrt** - To list files or directories with details (timestamp, user, permissions .. ) in a current directory.
+               **ls -a** - lists all files and directories in the current folder, including hidden ones.
                **cd** - To change from one to another directory.
                **mkdir** - To create/make a directory.
                **whoami** - To check current user.
