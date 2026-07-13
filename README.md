@@ -34,3 +34,4 @@
                **kill** - Terminates a running process using its process ID.
                **vi** - Text editor
                **free** - Displays total system memory usage, including RAM and swap space.
+               **pkill -f "python app"** - To kill by pattern
