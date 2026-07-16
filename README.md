@@ -36,3 +36,4 @@
                **free** - Displays total system memory usage, including RAM and swap space.
                **pkill -f "python app"** - To kill by pattern
                **watch** - repeatedly runs a command at regular intervals and displays the updated output.
+               **look word** - Finds dictionary words starting with a prefix.
