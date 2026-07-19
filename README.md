@@ -16,7 +16,7 @@ A quick reference guide for essential Linux commands, categorized by their prima
 | `` `cp <src> <dest>` `` | Copy files or directories from one location to another. |
 | `` `mv <src> <dest>` `` | Move or rename a file or directory. |
 | `` `rm <file>` `` | Remove a file. |
-| `` `rm -rf <dir>` `` | Remove files, directories, and sub-directories recursively and forcefully. ⚠️ *Use with caution.* |
+| `` `rm -rf <dir>` `` | Remove files, directories, and sub-directories recursively and forcefully. |
 
 ## 🔐 Permissions & User Management
 | Command | Description |
