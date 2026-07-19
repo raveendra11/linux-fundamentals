@@ -56,6 +56,7 @@ A quick reference guide for essential Linux commands, categorized by their prima
 | `` `nano <file>` `` | Open a file in a basic, user-friendly terminal-based text editor. |
 | `` `vi <file>` `` | Open a file in the classic, powerful terminal-based text editor. |
 | `` `emacs <file>` `` | Open a file in the extensible, customizable text editor (terminal or GUI). |
+| `micro <file>` | Open a file in the modern, user-friendly terminal-based text editor with syntax highlighting, mouse support, and intuitive keybindings. |
 
 ## 🌐 Network & Utilities
 | Command | Description |
