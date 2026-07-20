@@ -38,6 +38,8 @@ A quick reference guide for essential Linux commands, categorized by their prima
 | `` `wc -l <file>` `` | Count and display the number of lines in a file. |
 | `` `grep "pattern" <file>` `` | Search and display lines matching a specific text pattern. |
 | `` `look <prefix>` `` | Find dictionary words that start with a specific prefix. |
+| `` ` yes "Hello" ` `` | Repeats a string continuously. |
+
 
 ## ⚙️ System & Process Management
 | Command | Description |
