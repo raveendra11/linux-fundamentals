@@ -65,6 +65,8 @@ A quick reference guide for essential Linux commands, categorized by their prima
 | :--- | :--- |
 | `` `wget <url>` `` | Download files from the web directly to the current directory. |
 | `` `curl <url>` `` | Transfer data from or to a server (download files, test APIs, fetch web pages).|
+| `` `ping <host>` `` | Check network connectivity to a host by sending ICMP echo requests.|
+
 
 
 ---
